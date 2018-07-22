@@ -130,6 +130,19 @@ sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
 sudo apt-get install papirus-icon-theme
 ```
+
+### Themes
+
+```
+sudo add-apt-repository ppa:tista/adapta
+sudo apt-get update
+sudo apt-get install adapta-gtk-theme
+```
+
+```
+sudo apt-get install arc-theme
+```
+
 ## Clean up
 
 ```
